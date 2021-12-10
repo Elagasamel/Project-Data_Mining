@@ -4,22 +4,23 @@
 
 
 
-## Description du projet
-La langue des signes américaine (ASL) est la principale langue utilisée par de nombreuses personnes sourdes en Amérique du Nord, 
-et elle est également utilisée par les personnes malentendantes et entendantes. La langue est aussi riche que les langues parlées 
-et emploie des signes faits avec la main, ainsi que des gestes du visage et des postures corporelles.
+## Project Description
+American Sign Language (ASL) is the primary language used by many deaf individuals in North America,
+ and it is also used by hard-of-hearing and hearing individuals. The language is as rich as spoken languages 
+and employs signs made with the hand, along with facial gestures and bodily postures.
 
-Dans ce projet, vous entraînerez un réseau de neurones convolutifs pour classer des images de lettres ASL. Après avoir chargé, 
-examiné et prétraité les données, vous entraînerez le réseau et testerez ses performances.
+In this project, we had been being train a convolutional neural network to
+ classify images of ASL letters. After loading, examining, and preprocessing the data, we had been being the network 
+and test its performance.
 
-## Tâches du projet
+## Project Tasks
 
-1. Langue des signes américaine (ASL)
-2. Visualisez les données d'entraînement
-3. Examinez l'ensemble de données
-4. One-hot encoder les données
-5. Définir le modèle
-6. Compilez le modèle
-7. Former le modèle
-8. Testez le modèle
-9. Visualisez les erreurs
+1. American Sign Language (ASL)
+2. Visualize the training data
+3. Examine the dataset
+4. One-hot encode the data
+5. Define the model
+6. Compile the model
+7. Train the model
+8. Test the model
+9. Visualize mistakes

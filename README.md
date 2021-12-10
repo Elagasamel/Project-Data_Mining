@@ -11,3 +11,24 @@ In the code cell below, we load the training and test data.
 
 x_train and x_test are arrays of image data with shape (num_samples, 3, 50, 50), corresponding to the training and test datasets, respectively.
 y_train and y_test are arrays of category labels with shape (num_samples,), corresponding to the training and test datasets, respectively.
+
+
+## Description du projet
+La langue des signes américaine (ASL) est la principale langue utilisée par de nombreuses personnes sourdes en Amérique du Nord, 
+et elle est également utilisée par les personnes malentendantes et entendantes. La langue est aussi riche que les langues parlées 
+et emploie des signes faits avec la main, ainsi que des gestes du visage et des postures corporelles.
+
+Dans ce projet, vous entraînerez un réseau de neurones convolutifs pour classer des images de lettres ASL. Après avoir chargé, 
+examiné et prétraité les données, vous entraînerez le réseau et testerez ses performances.
+
+## Tâches du projet
+
+1. Langue des signes américaine (ASL)
+2. Visualisez les données d'entraînement
+3. Examinez l'ensemble de données
+4. One-hot encoder les données
+5. Définir le modèle
+6. Compilez le modèle
+7. Former le modèle
+8. Testez le modèle
+9. Visualisez les erreurs

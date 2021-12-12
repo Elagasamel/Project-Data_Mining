@@ -13,6 +13,9 @@ In this project, we had been being train a convolutional neural network to
  classify images of ASL letters. After loading, examining, and preprocessing the data, we had been being the network 
 and test its performance.
 
+
+<img src="/Pictures/p1.jpg" width="800" height="400">
+
 ## Project Tasks
 
 1. American Sign Language (ASL)

@@ -24,3 +24,9 @@ and test its performance.
 7. Train the model
 8. Test the model
 9. Visualize mistakes
+
+
+## Authors
+
+* [Sidaoui Intissar](https://github.com/intissarsidaoui) 
+* [Elagas  Amel](https://github.com/Elagasamel) 
